@@ -1,4 +1,5 @@
 # DTwin-DTL
+#https://doi.org/10.5281/zenodo.16782208
 
 The Industrial Internet of Things (IIoT) connects various industrial equipment, enhancing the connection between workers and machines. Efficient management of the Internet of Things is crucial for ensuring the stable operation of equipment. 
 Twin digital technology connects the physical and virtual worlds, enabling real-time monitoring and analysis of physical assets.
